@@ -25,7 +25,7 @@ It provides CRUD operations for notes with `title` and `content`, including basi
    git clone https://github.com/Nikhil-Vardhan1911/-notes-api-node-firebase.git
    cd -notes-api-node-firebase
 2 Install Dependencies
-    npm install
+   npm install
 
 3. Setup Firebase Service Account
   1. Go to your Firebase Console → Project Settings → Service Accounts
