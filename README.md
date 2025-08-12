@@ -25,15 +25,15 @@ It provides CRUD operations for notes with `title` and `content`, including basi
    git clone https://github.com/Nikhil-Vardhan1911/-notes-api-node-firebase.git
    cd -notes-api-node-firebase
 2 Install Dependencies
-   npm install
+    > npm install
 
 3. Setup Firebase Service Account
-  1. Go to your Firebase Console → Project Settings → Service Accounts
-  2. Click Generate new private key to download the serviceAccountKey.json file
-  3. Place this file in the root directory of the project
+  >. Go to your Firebase Console → Project Settings → Service Accounts
+  >. Click Generate new private key to download the serviceAccountKey.json file
+  >. Place this file in the root directory of the project
 
 4. Run the application
-     npm run dev
+     > npm run dev
 
 5. Test the API
 Use Postman or any API client to test the endpoints at http://localhost:3000
