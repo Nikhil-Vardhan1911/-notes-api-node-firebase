@@ -1,7 +1,7 @@
 # Notes API with Node.js and Firebase Firestore
 
 ## Project Overview
-This is a simple Notes API backend built using Node.js, Express.js, and Firebase Firestore with the Firebase Admin SDK.  
+This is a simple Notes API backend built using Node.js, Express.js, and Firebase Firestore with the Firebase Admin SDK 
 It provides CRUD operations for notes with `title` and `content`, including basic validation and timestamps (`createdAt` and `updatedAt`)
 
 ## Tech Stack
